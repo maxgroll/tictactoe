@@ -1,8 +1,8 @@
 # tictactoe
 
-## Schoolprojet of an intelligent(unbeatable) tic-tac-toe game in cpp
+## Schoolproject of an intelligent(unbeatable) tic-tac-toe game in cpp
 
-download project and navigate to foler in cmd or terminal
+download project and navigate to folder in cmd or terminal
 
 open with 'start.bat' or 'g++ Game.cpp -std=c++14 -o max && max' 
 

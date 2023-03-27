@@ -1,0 +1,24 @@
+├── Game.cpp  				   -> Game klasse == ausfuehrende Datei
+├── data
+│   └── Passwords.txt			-> txt datei mit test login daten
+├── documentation
+│   ├── tree.txt				-> dieses doc
+│	└── TicTacToe_theory.pdf
+├── include
+│   ├── Easy.hpp			   	-> klasse Easy
+│   ├── Hard.hpp			    -> klasse Hard
+│   ├── Medium.hpp				-> klasse Medium
+│   ├── Versus.hpp				-> klasse Versus
+│   ├── helper_functions.hpp	-> hilfs und friend functions
+│   ├── iLevel.hpp				-> Interface fuer levels
+│   └── main_header.hpp		    -> Hauptheader it konstanten und deklarationen
+├── source
+│   ├── Easy.cpp
+│   ├── Hard.cpp
+│   ├── Medium.cpp
+│   ├── Versus.cpp
+│   └── login.cpp
+└── test
+
+
+(c) Copyright 2023 Max von Groll. All Rights Reserved. 

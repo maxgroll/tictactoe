@@ -4,7 +4,11 @@
 
 download project and navigate to folder in cmd or terminal
 
-open with 'start.bat' or 'g++ Game.cpp -std=c++14 -o max && max' 
+ Windows: start with 'cmd-start.bat' or 'g++ Game.cpp -std=c++14 -o program && program' 
+ 
+ Mac of Linux: start with 'terminal-start.bat' or g++ Game.cpp -std=c++14 -o program && ./program' 
+
+
 
 Login:
 		-for testing:

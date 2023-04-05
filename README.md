@@ -1,5 +1,8 @@
 # tictactoe
 
+<img src="https://github.com/maxgroll/tictactoe/blob/main/test/tic-tac-toe.jpg" width="500" height="500">
+
+
 ## Schoolproject of an intelligent(unbeatable) tic-tac-toe game in cpp
 
 download project and navigate to folder in cmd or terminal
